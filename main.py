@@ -5,7 +5,7 @@ import google.generativeai as gen_ai
 # GOOGLE_API_KEY="AIzaSyDj6ZsZUr9TZHUmAR2YXGIPIEspiw2AeYA"
 
 st.set_page_config(
-    page_title="Chat with Niranjan"
+    page_title="Chat with Niranjan",
     page_icon=":brain:",
     layout="centered"
 )
